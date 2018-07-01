@@ -408,3 +408,11 @@ h1{
 .portfolio-container{
   padding: 5rem;
 }
+
+.sr-contact{
+  color:black;
+}
+
+.sr-contact:hover{
+  color:#2be2d9;
+}
